@@ -1,7 +1,7 @@
 # **Association Rules**
 # **Defining the Research Problem**
 ### **Defining the Question**
-I am a data analyst at Carrefour. It is a supermarket company that has various outlets across the globe and I have been tasked with the work of formulating a suitable marketing strategy that will help in maximizing the profits of the company. I have been provided with dataset of sales from different branches. I am too do my analysis and provide appropriate recommendations.
+I am a data analyst at Carrefour. It is a supermarket company that has various outlets across the globe and I have been tasked with the work of formulating a suitable marketing strategy that will help in maximizing the profits of the company. I have been provided with dataset of sales from different branches. I am to do my analysis and provide appropriate recommendations.
 
 Goal - Confirm presence or absence of anomalies
 
