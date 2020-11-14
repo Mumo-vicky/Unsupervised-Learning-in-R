@@ -15,7 +15,7 @@ Below are the stages that I am going to follow:
 2. Data tidying
 3. Exploratory Data Analysis
 4. Implementation of solution
-5. Data Relevance
+5. Conclusion
 
 ### **Relevance of Data**
 The data provided is from the companies collection and it will be relevant or our analysis.
